@@ -38,5 +38,4 @@ Ingrese la moneda a convertir (ej. ARS): ARS
 Ingrese el monto a convertir: 100
 El monto convertido de 100.00 USD a ARS es: 10000.00
 
-## Contribuciones
-Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por favor abre un issue o envía un pull request.
+
